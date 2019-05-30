@@ -28,7 +28,7 @@ sudo apt install python-opencv
 ```
 
 In case you are only interested in the proposed [Warp LSTM][2], please find the
-implementation in the link above.
+implementation in the link.
 
 ### Dataset.
 1. Generate the dataset for STVR.
