@@ -1,3 +1,5 @@
+
+
 # Spatio-temporal Video Re-localization by Warp LSTM
 by [Yang Feng](http://cs.rochester.edu/u/yfeng23/), Lin Ma, Wei Liu, and
 [Jiebo Luo](http://cs.rochester.edu/u/jluo)
@@ -25,6 +27,7 @@ correspond to the query. For more details, please refer to our
 ```
 pip install tensorflow-gpu
 sudo apt install python-opencv
+sudo apt install ffmpeg
 ```
 
 In case you are only interested in the proposed [Warp LSTM][2], please find the
